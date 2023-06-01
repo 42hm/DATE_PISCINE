@@ -16,9 +16,9 @@ this project offers a variety of enchanting experiences for couples and adventur
 
 The repository is organized by city, ensuring you can easily navigate to your desired location.
 
-Inside each city directory, you will find a PDF document containing a comprehensive guide to the date course, 
+A PDF document containing a comprehensive guide to the date course, complete with captivating descriptions,
 
-complete with captivating descriptions, captivating images, and additional information about the featured spots.
+captivating images, and additional information about the featured spots.
 
 ## :sparkles: Getting Started
 
