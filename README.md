@@ -4,7 +4,9 @@
 </br>
 </br>
 
-Here, you will find a curated collection of delightful date courses in Korea, carefully crafted during the **42seoul hackathon**.
+Here, you will find a curated collection of delightful date courses in Korea,
+
+carefully crafted during the **42seoul hackathon**.
 
 From romantic walks along scenic paths to hidden gems waiting to be discovered,
 
